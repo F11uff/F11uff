@@ -1,7 +1,15 @@
-## Hi there 👋
+
+<div align="center">
+  <p class="center">
+  <h5>
+    Hello my name is Amir and I am a Go developer
+  </h5>
+  </p>
+</div>
+<!-- Hi there 👋 -->
 
 <div id="header" align="center">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/9870835eef5f5b8437ae37c2a69f621991c72075bff676ba557382e2291e57c9.gif" width="1500"/>
+  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/9870835eef5f5b8437ae37c2a69f621991c72075bff676ba557382e2291e57c9.gif" width="350"/>
 </div>
 
 <!--
