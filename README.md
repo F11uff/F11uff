@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media1.thehungryjpeg.com/thumbs2/ori_3684862_apllzoeq6cv5idrpd1x00303wdkrx259a2ur34xs_go-monogram-logo-design.jpg" 
-       style="border: 20px solid; width: 750px;">
+       style="border: 20px solid; width: 950px;">
 </div>
 
 <!--
