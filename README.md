@@ -1,15 +1,17 @@
 
-<div align="center">
-  <p class="center">
-  <h1>
-    Hello my name is Amir and I am a Go developer🧑🏼‍💻
-  </h1>
-  </p>
-</div>
-<!-- Hi there 👋 -->
 
-<div id="header" align="center">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/9870835eef5f5b8437ae37c2a69f621991c72075bff676ba557382e2291e57c9.gif" width="350"/>
+<div align="center">
+  <h1>
+  <pre><code class="language-go"> 
+    
+    package main
+
+    import "fmt"
+    
+    func main()
+      {fmt.Println("Hello, World!")}
+  </code></pre>
+  </h1>
 </div>
 
 <!--
