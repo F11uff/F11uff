@@ -30,15 +30,20 @@
   </a>
 </div>
 
-<div align="center" dir="auto">
+<div align="left" dir="auto">
   <a>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" widht="40" /> 
   </a>
   <a>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  height="40" widht="40" />
   </a>
+  <a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" widht="40" />
+  </a>
+  <a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" widht="40" />
+  </a>
 </div>
-
 <!--
 **Amir1233/Amir1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
