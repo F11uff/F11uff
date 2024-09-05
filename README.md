@@ -11,7 +11,7 @@
   <a href="https://t.me/Flluff">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=black" alt="Telegram">
   </a>
-  <a href="">
+  <a href="mailto:gumerovamirhan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=black" alt="Gmail">
   </a>
 </div>
