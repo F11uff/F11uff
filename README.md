@@ -14,6 +14,9 @@
   <a href="mailto:gumerovamirhan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=black" alt="Gmail">
   </a>
+  <a href="https://leetcode.com/leathaho/">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+  </a>
 </div>
 
 <div class="markdown-heading" dir="auto">
