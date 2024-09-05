@@ -30,13 +30,13 @@
   </a>
 </div>
 
-<div align="left" dir="auto">
+<div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667">
-    <img src="https://infostart.ru/upload/iblock/924/924bc2fbe0c0e9c3b1d81542519f9e95.png" height="45" alt="javascript logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 50%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" widht="40" /> 
   </a>
-<!--   <a target="_blank" rel="noopener noreferrer" href="">
-    <img width="12" style="max-width: 100%;">
-  </a> -->
+  <a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  height="40" widht="40" />
+  </a>
 </div>
 
 <!--
