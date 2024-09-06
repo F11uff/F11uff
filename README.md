@@ -49,20 +49,18 @@
   <h3 align="left" class="heading-element" dir="auto">
     👨🏼‍💻My Project:
   </h3>
-
-  
 </div>
-<!--
-**Amir1233/Amir1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details open>
+  <summary><h3 style="display: inline;"> С / С++ </h3></summary>
+  <div>
+    Здесь можно разместить любую информацию, связанную с С / С++.
+  </div>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+  <summary><h3 style="display: inline;"> Go </h3></summary>
+  <div>
+    Здесь можно разместить любую информацию, связанную с Go.
+  </div>
+</details>
