@@ -54,7 +54,30 @@
 <details open>
   <summary><h3 style="display: inline;"> С / С++ </h3></summary>
   <div>
-    Здесь можно разместить любую информацию, связанную с С / С++.
+    <table>
+      <tr>
+        <th align="center"> Project </th>
+        <th align="center"> Information </th>
+      </tr>
+      <tr>
+        <td> <a href=""> Containers </a> </td>
+        <td align="left"> 
+    <p>This project includes the implementation of essential C++ data containers similar to those found in the Standard Template Library (STL):</p>
+
+<ul>
+  <li><strong>Vector</strong>: A dynamic array implementation with automatic memory management and iterator support.</li>
+  <li><strong>List</strong>: A doubly linked list that provides efficient insertion and deletion of elements at any position.</li>
+  <li><strong>Stack</strong>: A stack that follows the LIFO (Last In, First Out) principle.</li>
+  <li><strong>Queue</strong>: A queue that follows the FIFO (First In, First Out) principle.</li>
+  <li><strong>Map</strong>: An associative container that stores key-value pairs with ordered access by key.</li>
+  <li><strong>Set</strong>: A container that stores unique elements with ordered access.</li>
+  <li><strong>Multiset</strong>: Similar to Set, but allows storing duplicate elements.</li>
+  <li><strong>Array</strong>: A fixed-size static array implementation.</li>
+</ul>
+
+<p>These containers are developed for educational purposes and provide basic functionality similar to their STL counterparts.</p> </td>
+      </tr>
+    </table>
   </div>
 </details>
 
