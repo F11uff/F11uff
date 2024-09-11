@@ -77,11 +77,27 @@
 
 <p>These containers are developed for educational purposes and provide basic functionality similar to their STL counterparts.</p> </td>
       </tr>
+      <tr>
+        <td align="center"><a href=""> Viewer </a></td>
+        <td align="left">
+        <p>The Viewer project is focused on parsing files to extract and analyze vertices and edges:</p>
+
+<ul>
+  <li><strong>Vertices Parsing</strong>: Efficient extraction and analysis of vertices from complex geometric data.</li>
+  <li><strong>Edges Parsing</strong>: Detailed processing and manipulation of edges associated with the vertices.</li>
+  <li><strong>Geometric Data Visualization</strong>: Tools to visualize the structure of objects represented by vertices and edges.</li>
+  <li><strong>3D Modeling</strong>: Supports tasks related to 3D modeling and computational geometry.</li>
+  <li><strong>Computational Geometry</strong>: Useful for applications that require detailed analysis of geometric data.</li>
+</ul>
+
+<p>This project is particularly useful for tasks that involve 3D modeling, computational geometry, or other applications requiring detailed analysis of geometric data.</p>
+        </td>
+      </tr>
     </table>
   </div>
 </details>
 
-<details open>
+<details close>
   <summary><h3 style="display: inline;"> Go </h3></summary>
   <div>
     Здесь можно разместить любую информацию, связанную с Go.
