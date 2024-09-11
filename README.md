@@ -58,6 +58,7 @@
       <tr>
         <th align="center"> Project </th>
         <th align="center"> Information </th>
+        <th align="center"> Tools </th>
       </tr>
       <tr>
         <td> <a href="https://github.com/Amir1233/Containers"> Containers </a> </td>
@@ -76,6 +77,7 @@
 </ul>
 
 <p>These containers are developed for educational purposes and provide basic functionality similar to their STL counterparts.</p> </td>
+<td align="center"><p> <strong>C++ </strong></p></td>
       </tr>
       <tr>
         <td align="center"><a href="https://github.com/F11uff/Viewer"> Viewer </a></td>
@@ -91,8 +93,8 @@
 </ul>
 
 <p>This project is particularly useful for tasks that involve 3D modeling, computational geometry, or other applications requiring detailed analysis of geometric data.</p>
-<p>Tools: <strong>Qt</strong>, <strong>OpenGL</strong>.</p>
         </td>
+        <td align="center"><p><strong>Qt</strong>, <strong>OpenGL</strong>.</p></td>
       </tr>
     </table>
   </div>
