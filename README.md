@@ -78,7 +78,7 @@
 <p>These containers are developed for educational purposes and provide basic functionality similar to their STL counterparts.</p> </td>
       </tr>
       <tr>
-        <td align="center"><a href=""> Viewer </a></td>
+        <td align="center"><a href="https://github.com/F11uff/Viewer?tab=readme-ov-file#information"> Viewer </a></td>
         <td align="left">
         <p>The Viewer project is focused on parsing files to extract and analyze vertices and edges:</p>
 
