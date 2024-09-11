@@ -51,7 +51,7 @@
   </h3>
 </div>
 
-<details open>
+<details close>
   <summary><h3 style="display: inline;"> С / С++ </h3></summary>
   <div>
     <table>
