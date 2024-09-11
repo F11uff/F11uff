@@ -91,6 +91,7 @@
 </ul>
 
 <p>This project is particularly useful for tasks that involve 3D modeling, computational geometry, or other applications requiring detailed analysis of geometric data.</p>
+<p>Tools: <strong>Qt</strong>, <strong>OpenGL</strong>.</p>
         </td>
       </tr>
     </table>
