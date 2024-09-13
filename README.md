@@ -117,7 +117,7 @@
       </tr>
       <tr>
         <td> <a href="https://github.com/F11uff/Tinkof-11.09.2024"> Tinkoff </a></td>
-        <td> <strong> </strong> </td>
+        <td> <strong> 11.09.2024 </strong> </td>
       </tr>
     </table>
   </div>
