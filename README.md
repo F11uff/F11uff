@@ -116,7 +116,7 @@
         <th align="center"> Date </th>
       </tr>
       <tr>
-        <td> <a href=""> Tinkoff </a></td>
+        <td> <a href="https://github.com/F11uff/Tinkof-11.09.2024"> Tinkoff </a></td>
         <td> <strong> </strong> </td>
       </tr>
     </table>
