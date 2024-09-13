@@ -106,3 +106,19 @@
     Здесь можно разместить любую информацию, связанную с Go.
   </div>
 </details>
+
+<details close>
+  <summary><h3 style="display: inline;"> Contest </h3></summary>
+  <div>
+    <table>
+      <tr>
+        <th align="center"> Name </th>
+        <th align="center"> Date </th>
+      </tr>
+      <tr>
+        <td> <a href=""> Tinkoff </a></td>
+        <td> <strong> </strong> </td>
+      </tr>
+    </table>
+  </div>
+</details>
